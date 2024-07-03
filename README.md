@@ -23,3 +23,6 @@ In another terminal, launch your Streamlit application:
 streamlit run streamlit_app.py
 
 ```
+
+Interactive API docs: 
+ http://127.0.0.1:8000/docs
