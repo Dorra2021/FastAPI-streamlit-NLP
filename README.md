@@ -11,7 +11,9 @@ The front end UI is built on Streamlit.
 # How to use :
 
 Open a terminal and launch the FastAPI API:
+'''bash
 uvicorn main:app --reload
+'''
 
 In another terminal, launch your Streamlit application:
 
