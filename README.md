@@ -19,6 +19,7 @@ uvicorn main:app --reload
 
 In another terminal, launch your Streamlit application:
 
+ ```bash
 streamlit run streamlit_app.py
 
-
+```
